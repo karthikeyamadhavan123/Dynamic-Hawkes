@@ -73,7 +73,7 @@ Where:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dynamic-hawkes-process.git
+git clone https://github.com/karthikeyamadhavan123/Dynamic-Hawkes.git
 cd dynamic-hawkes-process
 
 # Create virtual environment
@@ -88,7 +88,7 @@ pip install -r requirements.txt
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dynamic-hawkes-process.git
+git clone https://github.com/karthikeyamadhavan123/Dynamic-Hawkes.git
 cd dynamic-hawkes-process
 
 # Create conda environment
@@ -648,7 +648,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues:
 - Open an issue on GitHub
-- Email: your.email@example.com
+- Email: karthikeyadonnipad2005@gmail.com
 
 ## 🔗 Links
 
@@ -659,5 +659,5 @@ For questions or issues:
 
 ---
 
-**Last Updated**: December 2024  
+**Last Updated**: December 2025  
 **Version**: 1.0.0
